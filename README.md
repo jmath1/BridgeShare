@@ -1,3 +1,7 @@
+The purpose of this project is not only to showcase knowledge in C++, but also to
+demonstrate continued understanding and research of computer science concepts. This will be done using code demonstrations,
+blogs, graphs to demonstrate the live speed of backend algorithms, the creation and documentation of backend tools, etc.
+
 This is for a webapp in C++ and React
 * Create db user model
 * Users will be able to authenticate

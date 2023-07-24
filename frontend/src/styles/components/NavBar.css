@@ -1,0 +1,38 @@
+/* index.css */
+
+/* Navbar styles */
+nav {
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  /* Navigation links styles */
+  a {
+    text-decoration: none;
+    color: darkgrey;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  a:hover {
+    color: #541182;
+    background-color: darkgrey;
+  }
+  
+  /* Active link style */
+  a.active {
+    background-color: #541182;
+    color: #333;
+  }
+  

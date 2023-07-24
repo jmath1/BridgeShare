@@ -1,0 +1,67 @@
+/* index.css */
+
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li {
+    margin: 20;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgrey; /* Dark background */
+    color: #000000; /* Light text color */
+    padding: 10px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #541182; /* Turquoise color */
+  }
+  
+  /* Navigation menu styles */
+  nav {
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  
+
+  
+
+  
+  /* Main content styles */
+  main {
+    padding: 40px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    color: #541182;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Add more futuristic styles to other elements as needed */
+  
